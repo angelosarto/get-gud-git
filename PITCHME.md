@@ -1,5 +1,5 @@
 @title[Get Gud Git]
-# Get @fa[magic] Gud @fa[bomb] @ Git @fa[code-branch]
+# @fa[magic] Get  @fa[bomb] Gud  @ Git @fa[code-fork]
 ---
 Getting Good at Git
 Note: 
