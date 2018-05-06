@@ -7,5 +7,7 @@ this presentation will give you enough understanding of how git works to make yo
 
 ---
 # @fa[cogs] Setup @fa[bitbucket]
+![profile](./img/profile1.png)
+![profile2](./img/profile2.png)
 Note:
 First up, we are going to establish a personal repo to play around in while I do this presentation.  I expect you to fidget in class; but I expect you to fidget on git.
