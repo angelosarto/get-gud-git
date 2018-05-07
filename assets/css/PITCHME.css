@@ -10,3 +10,5 @@
 .fa-lime { color : #b9ff66; }
 
 span.fa-byline { color : gray; }
+
+img.scale-down{width:250; height:250px; border:none; box-shadow:none; object-fit: scale-down;}
