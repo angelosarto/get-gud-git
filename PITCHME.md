@@ -9,13 +9,9 @@ this presentation will give you enough understanding of how git works to make yo
 ## @fa[cogs] Setup @fa[bitbucket]
 https://bitbucket.aws.baxter.com
 
-@div[left-30]
+@div[centered]
 ![profile](./img/profile1.png)
-@divend
-@div[left-60]
 ![profile2](./img/profile2.png)
-@divend
-@div[right-30]
 ![profile2](./img/profile3.png)
 @divend
 `cat ~/.ssh/id_rsa.pub`
