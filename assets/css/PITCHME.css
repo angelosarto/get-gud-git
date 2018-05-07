@@ -11,4 +11,4 @@
 
 span.fa-byline { color : gray; }
 
-img[alt~="scale-down"]{width:250; height:250px; border:none; box-shadow:none; object-fit: scale-down;}
+img[alt~="scale-down"]{ width: 33%; height: 100%; border: none !important; object-fit: scale-down;}
