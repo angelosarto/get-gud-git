@@ -7,10 +7,10 @@ this presentation will give you enough understanding of how git works to make yo
 
 ---
 ## @fa[cogs] Setup @fa[bitbucket]
+https://bitbucket.aws.baxter.com
 @div[left-50]
 ![profile](./img/profile1.png)
 @divend
-
 @div[right-50]
 ![profile2](./img/profile2.png)
 @divend
