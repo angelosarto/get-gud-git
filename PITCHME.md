@@ -10,9 +10,9 @@ this presentation will give you enough understanding of how git works to make yo
 https://bitbucket.aws.baxter.com
 
 @div[centered ]
-![profile](./img/profile1.png)<!-- .element: class="scale-down" -->
-![profile2](./img/profile2.png)<!-- .element: class="scale-down" -->
-![profile3](./img/profile3.png)<!-- .element: class="scale-down" -->
+![profile scale-down](./img/profile1.png)
+![profile2 scale-down](./img/profile2.png)
+![profile3 scale-down](./img/profile3.png)
 @divend
 `cat ~/.ssh/id_rsa.pub`
 Note:
