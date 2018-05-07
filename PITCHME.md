@@ -19,7 +19,7 @@ Note:
 First up, we are going to establish a personal repo to play around in while I do this presentation.  I expect you to fidget in class; but I expect you to fidget on git.
 ---
 ## Git Basics
-### @fa[tree]@fa[tree]@fa[tree]
+### @fa[tree]-@fa[tree]-@fa[tree]
 
 Note:
 The three trees is the most important thing to remember, even if you remeber nothing else
